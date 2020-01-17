@@ -15,24 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="cpp.hint" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Sleeper.h">
+    <ClInclude Include="src\SleeperLibrary.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="SleeperLibrary.h">
+    <ClInclude Include="src\Sleeper.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="dllmain.cpp">
+    <ClCompile Include="src\dllmain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Sleeper.cpp">
+    <ClCompile Include="src\Sleeper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SleeperLibrary.cpp">
+    <ClCompile Include="src\SleeperLibrary.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

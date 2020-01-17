@@ -1,2 +1,0 @@
-#define SLEEPDLL_API __declspec(dllexport)
-#define SLEEPDLL_API __declspec(dllimport)
